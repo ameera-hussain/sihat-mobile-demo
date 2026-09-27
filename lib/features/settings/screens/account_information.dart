@@ -33,7 +33,7 @@ class _AccountInformationScreenState extends State<AccountInformationScreen> {
     super.initState();
     nameController = TextEditingController(text: MockAuth.mockUser.name ?? '');
     emailController = TextEditingController(text: MockAuth.mockUser.email);
-    phoneController = TextEditingController(text: '+1 234 567 890');
+    phoneController = TextEditingController(text: '+60123456789');
     carePlanController = TextEditingController(text: 'N/A');
   }
 

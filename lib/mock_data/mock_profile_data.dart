@@ -10,7 +10,7 @@ class MockProfileData {
       email: 'haris@gmail.com',
       nationality: 'Malaysian',
       phoneNumber: '+60123456789',
-      identificationType: IdentificationType.passport,
+      identificationType: IdentificationType.ic,
       identificationnumber: '800731-14-5678',
       dateOfBirth: '1980-07-31',
       genderType: GenderType.male,
